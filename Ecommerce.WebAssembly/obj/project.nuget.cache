@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9BrLZjyO8TfJOIctrZBdJXuyVXxEOZ70qhK+mBqmnuZyJk/dyn7/ON1lvmG3li7MJAZ5jt3OpSql7v9Ze30EKQ==",
+  "dgSpecHash": "j+9MM37fy1mOmYpQG3iMPb/MciLx8TLfddCvWfXebHdDzFKcN07isBEAoFiqFg2kfGsQXv45alcWyvzc9Ykv9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\Escritorio\\Proyectos\\.net\\EcommerceMiTienda\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
+  "projectFilePath": "C:\\Users\\diego\\projects\\asp.net\\source\\Ecommerce\\Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0\\microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.0\\microsoft.aspnetcore.components.8.0.0.nupkg.sha512",
@@ -28,12 +28,12 @@
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.jsinterop\\8.0.0\\microsoft.jsinterop.8.0.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.0\\microsoft.jsinterop.webassembly.8.0.0.nupkg.sha512",
-    "C:\\Users\\diego\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
-    "C:\\Users\\diego\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.1\\microsoft.net.sdk.webassembly.pack.8.0.1.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.0\\microsoft.net.sdk.webassembly.pack.8.0.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
-    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.1.nupkg.sha512"
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.0\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

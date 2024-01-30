@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "nHfVhzKCjcJ3MGUSdt0Q1YzhPUfmo71z+NmOaDcYV97Z7aWcoH13q28ifCAq03afPUssLLswNR2/BCtHhdmy/A==",
+  "dgSpecHash": "FggbAGg4T/5cIvQ/a05YsghihJlgIh8vw408NAdaQEi2d2+y6RbnN0E554KawBGhgiVYgDzv6M9ubctlaC5f8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\Escritorio\\Proyectos\\.net\\EcommerceMiTienda\\Ecommerce.API\\Ecommerce.API.csproj",
+  "projectFilePath": "C:\\Users\\diego\\projects\\asp.net\\source\\Ecommerce\\Ecommerce.API\\Ecommerce.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\diego\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
