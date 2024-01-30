@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\projects\\asp.net\\source\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\Escritorio\\Proyectos\\.net\\EcommerceMiTienda\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
       "projectName": "Ecommerce.DTO",
-      "projectPath": "C:\\Users\\diego\\projects\\asp.net\\source\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
+      "projectPath": "C:\\Users\\diego\\Escritorio\\Proyectos\\.net\\EcommerceMiTienda\\Ecommerce.DTO\\Ecommerce.DTO.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\projects\\asp.net\\source\\Ecommerce\\Ecommerce.DTO\\obj\\",
+      "outputPath": "C:\\Users\\diego\\Escritorio\\Proyectos\\.net\\EcommerceMiTienda\\Ecommerce.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

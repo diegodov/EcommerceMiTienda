@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b4LgJH1D2mI2I//7FkCyHRZTdBzTtsP0R7MoYhPrMf1p2/jA2h6LHLCFK0Xw7m6L1Uog/0JjJfDC5OpXI7TRBg==",
+  "dgSpecHash": "dq0me6tW+cweZ+QEqqfInd7QqvJ/R8QfckabliqE4KIRwK+GBTgwvzoed61CgYPGajd+agJiIbOJ+AlX/TeTCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\projects\\asp.net\\source\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj",
+  "projectFilePath": "C:\\Users\\diego\\Escritorio\\Proyectos\\.net\\EcommerceMiTienda\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
