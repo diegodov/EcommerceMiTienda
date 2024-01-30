@@ -78,3 +78,4 @@ C:\Users\diego\projects\asp.net\source\Ecommerce\Ecommerce.API\bin\Debug\net8.0\
 C:\Users\diego\projects\asp.net\source\Ecommerce\Ecommerce.API\bin\Debug\net8.0\Ecommerce.Modelo.pdb
 C:\Users\diego\projects\asp.net\source\Ecommerce\Ecommerce.API\bin\Debug\net8.0\Ecommerce.Repositorio.pdb
 C:\Users\diego\projects\asp.net\source\Ecommerce\Ecommerce.API\bin\Debug\net8.0\Ecommerce.Utilidades.pdb
+C:\Users\diego\projects\asp.net\source\Ecommerce\Ecommerce.API\obj\Debug\net8.0\Ecommerce.API.sourcelink.json

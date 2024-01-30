@@ -13,3 +13,4 @@ C:\Users\diego\projects\asp.net\source\Ecommerce\Ecommerce.Repositorio\bin\Debug
 C:\Users\diego\projects\asp.net\source\Ecommerce\Ecommerce.Repositorio\bin\Debug\net8.0\Ecommerce.Modelo.pdb
 C:\Users\diego\projects\asp.net\source\Ecommerce\Ecommerce.Repositorio\obj\Debug\net8.0\Ecommerce.Repositorio.csproj.AssemblyReference.cache
 C:\Users\diego\projects\asp.net\source\Ecommerce\Ecommerce.Repositorio\obj\Debug\net8.0\Ecommerce.Repositorio.csproj.CopyComplete
+C:\Users\diego\projects\asp.net\source\Ecommerce\Ecommerce.Repositorio\obj\Debug\net8.0\Ecommerce.Repositorio.sourcelink.json
