@@ -3218,11 +3218,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\projects\\asp.net\\source\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\Escritorio\\Proyectos\\.net\\EcommerceMiTienda\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj",
       "projectName": "Ecommerce.Utilidades",
-      "projectPath": "C:\\Users\\diego\\projects\\asp.net\\source\\Ecommerce\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj",
+      "projectPath": "C:\\Users\\diego\\Escritorio\\Proyectos\\.net\\EcommerceMiTienda\\Ecommerce.Utilidades\\Ecommerce.Utilidades.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\projects\\asp.net\\source\\Ecommerce\\Ecommerce.Utilidades\\obj\\",
+      "outputPath": "C:\\Users\\diego\\Escritorio\\Proyectos\\.net\\EcommerceMiTienda\\Ecommerce.Utilidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3239,11 +3239,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\diego\\projects\\asp.net\\source\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
-              "projectPath": "C:\\Users\\diego\\projects\\asp.net\\source\\Ecommerce\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
+            "C:\\Users\\diego\\Escritorio\\Proyectos\\.net\\EcommerceMiTienda\\Ecommerce.DTO\\Ecommerce.DTO.csproj": {
+              "projectPath": "C:\\Users\\diego\\Escritorio\\Proyectos\\.net\\EcommerceMiTienda\\Ecommerce.DTO\\Ecommerce.DTO.csproj"
             },
-            "C:\\Users\\diego\\projects\\asp.net\\source\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj": {
-              "projectPath": "C:\\Users\\diego\\projects\\asp.net\\source\\Ecommerce\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj"
+            "C:\\Users\\diego\\Escritorio\\Proyectos\\.net\\EcommerceMiTienda\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj": {
+              "projectPath": "C:\\Users\\diego\\Escritorio\\Proyectos\\.net\\EcommerceMiTienda\\Ecommerce.Modelo\\Ecommerce.Modelo.csproj"
             }
           }
         }
@@ -3273,7 +3273,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
